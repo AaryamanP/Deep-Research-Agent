@@ -28,11 +28,10 @@ An autonomous AI agent that performs deep web research, reasoning, and reporting
 ```
 
 2. **Install dependencies**
+```bash
+pip install -r requirements.txt
 
-    ```bash
-    pip install -r requirements.txt
-
-    ```
+```
 
 
 3. **Configure API Keys**
@@ -51,6 +50,7 @@ streamlit run app.py
 ```
 
 
+
 ## 🧠 Architecture
 
 The agent follows a **ReAct** (Reason + Act) pattern:
@@ -62,4 +62,3 @@ The agent follows a **ReAct** (Reason + Act) pattern:
 5. **Loop:** It determines if it has enough info to answer or needs to search again.
 6. **Output:** Final synthesized answer delivered to the Streamlit UI.
 
-```
