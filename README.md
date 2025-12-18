@@ -1,6 +1,6 @@
 # Deep Research Agent
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://deep-research-agent-ang432jnavo5fqdeapjfyq.streamlit.app/)
+# 🚀 [CLICK HERE TO LAUNCH APP](https://deep-research-agent-ang432jnavo5fqdeapjfyq.streamlit.app/)
 
 An autonomous AI agent that performs deep web research, reasoning, and reporting. Built with **Gemini 2.5**, **LangGraph**, and **Streamlit**.
 
