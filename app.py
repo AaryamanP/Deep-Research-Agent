@@ -1,4 +1,12 @@
 import streamlit as st
+import os
+
+if "TAVILY_API_KEY" in st.secrets:
+    os.environ["TAVILY_API_KEY"] = st.secrets["TAVILY_API_KEY"]
+
+if "GOOGLE_API_KEY" in st.secrets:
+    os.environ["GOOGLE_API_KEY"] = st.secrets["GOOGLE_API_KEY"]
+
 import uuid
 from langchain_core.runnables import RunnableConfig
 from langchain_core.messages import HumanMessage
