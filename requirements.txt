@@ -1,0 +1,7 @@
+langchain
+langchain-google-genai
+langchain-tavily
+langgraph
+streamlit
+python-dotenv
+grandalf

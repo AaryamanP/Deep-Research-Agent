@@ -1,0 +1,16 @@
+# Secrets (NEVER UPLOAD THESE)
+.env
+
+# Python compilation junk
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv
+env/
+venv/
+.anaconda/
+
+# IDE settings
+.vscode/
+.idea/
