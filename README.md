@@ -28,10 +28,11 @@ An autonomous AI agent that performs deep web research, reasoning, and reporting
 ```
 
 2. **Install dependencies**
-```bash
-pip install -r requirements.txt
 
-```
+    ```bash
+    pip install -r requirements.txt
+
+    ```
 
 
 3. **Configure API Keys**
