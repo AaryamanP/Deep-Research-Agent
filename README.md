@@ -25,7 +25,7 @@ An autonomous AI agent that performs deep web research, reasoning, and reporting
    git clone [https://github.com/AaryamanP/Deep-Research-Agent.git](https://github.com/AaryamanP/Deep-Research-Agent.git)
    cd Deep-Research-Agent
 
-```
+    ```
 
 2. **Install dependencies**
 ```bash
